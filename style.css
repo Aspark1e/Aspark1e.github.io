@@ -74,6 +74,9 @@ body > footer {
 
 img {
     border-radius: 100%;
+}
+
+.book.jpg {
     width: 100px;
     height: 100px;
 }
